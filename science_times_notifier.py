@@ -17,11 +17,11 @@ SMTP_PORT = 587
 # 보안을 위해 앱 비밀번호 사용을 강력히 권장합니다.
 # Gmail 앱 비밀번호 생성: https://support.google.com/accounts/answer/185833
 # Naver 앱 비밀번호 생성: https://help.naver.com/support/contents/supportContents.help?serviceNo=2342&categoryNo=2289
-SENDER_EMAIL = "dlehgus1687@mju.ac.kr"  # 보내는 사람 이메일 주소
+SENDER_EMAIL = "이메일 주소 입력"  # 보내는 사람 이메일 주소
 SENDER_PASSWORD = "앱 비밀번호 입력"    # 보내는 사람 이메일 앱 비밀번호
 
 # 3. 받는 사람 이메일 주소
-RECIPIENT_EMAIL = "dlehgus1687@mju.ac.kr"
+RECIPIENT_EMAIL = "이메일 주소 입력"
 
 # --- 스크립트 주요 로직 (수정 필요 없음) ---
 
